@@ -1,2 +1,2 @@
 # Practice a merge conflict
-We will practice a merge conflict
+Practice dealing with a merge conflict
